@@ -11,4 +11,4 @@ $\color{white} of$
 $\color{white} the$
 $\color{white} world$ -->
 
-<font style="color:red">may be to the end of the world</font>
+<font color="#FFFFFF">may be to the end of the world</font>
